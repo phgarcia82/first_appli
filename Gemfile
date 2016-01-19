@@ -42,8 +42,5 @@ gem 'jquery-rails'
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 
 group :assets do
-  gem 'therubyracer'
-  gem 'sass-rails'
-  gem 'coffee-rails'
   gem 'uglifier'
 end
